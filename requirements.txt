@@ -1,0 +1,5 @@
+This file lists the Python packages required to run the Password Generator.
+
+- No external packages need to be installed.
+- The program uses only the built-in "random" and "string" modules.
+- Requires Python 3.6 or newer.
